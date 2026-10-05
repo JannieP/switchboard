@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local tooling state
+.swarm/
+.claude/settings.local.json
